@@ -2,19 +2,19 @@
 
 ## I am a quality assurance engineer, language translator, teacher, student, and sports enthusiast!
 
-- :book: I’m currently learning aws cloud platform 🤓
+- :book: I’m a QA Automation Engineer 🤓
 - :dart: 2023 Goals: 1) Get AWS foundational cloud certification & 2) Start attending developer conferences
-- ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
+- ⚡ Fun fact: <br />
 
 
 ## How to get in touch 📬
-[![Linkedin Badge](https://img.shields.io/badge/-elena-volcov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elena-volcov/
+[![Linkedin Badge](https://img.shields.io/badge/-Darrell_Humphries-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tien-phan-dc/)](https://www.linkedin.com/in/elena-volcov/)
 [![Gmail Badge](https://img.shields.io/badge/-elena.volcov05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elena.volcov05@gmail.com)](mailto:elena.volcov05@gmail.com)
 [![Wordpress Badge](https://img.shields.io/badge/Blog-Medicine2Cloud-blue)](https://)
 <br />
 
 ## Technical Skills 👨‍💻
-![Amazon AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google](https://img.shields.io/badge/google%20-%4285F4.svg?&style=for-the-badge&logo=google&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23CC342D.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/microsoft%20-%231572B6.svg?&style=for-the-badge&logo=microsoft&logoColor=white)
