@@ -8,7 +8,7 @@
 
 
 ## How to get in touch 📬
-[![Linkedin Badge](https://img.shields.io/badge/-Darrell_Humphries-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tien-phan-dc/)](https://www.linkedin.com/in/elena-volcov/)
+[![Linkedin Badge](https://img.shields.io/badge/-Elena_Volcov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tien-phan-dc/)](https://www.linkedin.com/in/elena-volcov/)
 [![Gmail Badge](https://img.shields.io/badge/-elena.volcov05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elena.volcov05@gmail.com)](mailto:elena.volcov05@gmail.com)
 [![Wordpress Badge](https://img.shields.io/badge/Blog-Medicine2Cloud-blue)](https://)
 <br />
