@@ -10,16 +10,16 @@
 ## How to get in touch 📬
 [![Linkedin Badge](https://img.shields.io/badge/-Elena_Volcov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tien-phan-dc/)](https://www.linkedin.com/in/elena-volcov/)
 [![Gmail Badge](https://img.shields.io/badge/-elena.volcov05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elena.volcov05@gmail.com)](mailto:elena.volcov05@gmail.com)
-[![Wordpress Badge](https://img.shields.io/badge/Blog-Medicine2Cloud-blue)](https://)
+[![Wordpress Badge](https://img.shields.io/badge/QA-blue)](https://)
 <br />
 
 ## Technical Skills 👨‍💻
-![Java](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20-%23FF9900.svg?&style=for-the-badge&logo=java-java&logoColor=white)
 ![Google](https://img.shields.io/badge/google%20-%4285F4.svg?&style=for-the-badge&logo=google&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23CC342D.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/microsoft%20-%231572B6.svg?&style=for-the-badge&logo=microsoft&logoColor=white)
 
-![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23593d88.svg?&style=for-the-badge&logo=kubernetes&logoColor=white")
+![Jenkins](https://img.shields.io/badge/jenkins%20-%23593d88.svg?&style=for-the-badge&logo=jenkins&logoColor=white")
 ![Terraform](https://img.shields.io/badge/terraform%20-%23593d88.svg?&style=for-the-badge&logo=terraform&logoColor=white")
 ![Docker](https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23316192.svg?&style=for-the-badge&logo=ansible&logoColor=white)
